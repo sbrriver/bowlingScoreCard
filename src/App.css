@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+table{
+  margin: auto;
+}
+td {
+border: 1px solid navy;
+width: 6em;
+display: inline-flex;
+}
+
+input{
+  min-width: 0px;
+  width: 3em;
+}
+html{
+font-family: Georgia, 'Times New Roman', Times, serif;
+background: blanchedalmond;
+}
+
+p{
+  text-align: left;
+  border: 3em;
+}
